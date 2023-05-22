@@ -20,7 +20,7 @@ Program ini dapat mendeteksi jumlah jari dari gestur tangan secara real-time den
 ## Cara Menjalankan Program
 1. Pastikan semua prerequisite telah dipenuhi
 2. Ketik `py main.py` pada terminal
-3. WebCam akan muncul, usahakan berada pada tempat yang cukup cahaya
+3. WebCam akan muncul, usahakan berada pada tempat yang terang
 4. Tekan keyboard 'q' untuk exit 's' untuk menyimpan gambar
 
 ## Screenshot Hasil Pengujian
