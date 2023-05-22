@@ -15,7 +15,7 @@ Program ini dapat mendeteksi jumlah jari dari gestur tangan secara real-time den
 
 ## Pre-Requisite
 * Python 3.9.12, dapat diunduh melalui `https://www.python.org/downloads/`
-* Library openCV
+* Library openCV, numpy
 
 ## Cara Menjalankan Program
 1. Pastikan semua prerequisite telah dipenuhi
