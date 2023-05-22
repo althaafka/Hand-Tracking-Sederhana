@@ -9,8 +9,6 @@ Aplikasi Algoritma Divide and Conquer pada Hand Tracking Sederhana <br>
 - [Pre-Requisite](#pre-requisite)
 - [Cara Menjalankan Program](#cara-menjalankan-program)
 - [Screenshot Hasil Pengujian](#screenshot-hasil-pengujian)
-- [Struktur Program](#struktur-program)
-- [Kontributor](#kontributor)
 
 ## Penjelasan Singkat Program
 Program ini dapat mendeteksi jumlah jari dari gestur tangan secara real-time dengan memanfaatkan convex hull yang didapat melalui algoritma divide and conquer.
